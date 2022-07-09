@@ -1,6 +1,6 @@
 <?php
 
-require ('https://jiotvvercel11.vercel.app/token.php');
+require ('https://jiotvvercel.vercel.app/api/token.php');
 
 session_start();
 
