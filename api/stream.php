@@ -1,5 +1,5 @@
 <?php
-require ('token.php');
+require ('https://jiotvvercel11.vercel.app/token.php');
 
 $crm = $creds['sessionAttributes']['user']['subscriberId'];
 $uniqueId = $creds['sessionAttributes']['user']['unique'];
