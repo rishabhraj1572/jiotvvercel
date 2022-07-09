@@ -34,7 +34,7 @@
             </div>
         </div>
     </div>
-    <script src="assets/search.js"></script>
+    <script src="https://jiotvvercel11.vercel.app/api/assets/search.js"></script>
 </body>
 
 </html>
